@@ -1,0 +1,53 @@
+@media (max-width : 575px){
+
+    #banner h2{
+        font-size: 25px !important;
+        padding-top: 100px !important;
+    }
+
+    #banner h1{
+        font-size: 40px !important;
+        padding: 30px 0px;
+    }
+
+    #banner img {
+        padding-top: 0px !important;
+    }
+
+    #banner .banner-text button{
+        margin: 20px 0px !important;
+    }
+
+    #test .test-item .test-te {
+        padding-left: 20px !important;
+        padding-top: 30px;
+        margin: 86px 0px;
+        color: #fff;
+    }
+
+    #test .next-arrow {
+        top: 105% !important;
+        right: 35% !important;
+    }
+
+    #test .prev-arrow {
+        top: 105% !important;
+        left: 35% !important;
+    }
+
+    #blog .blog-item {
+        margin-bottom: 30px;
+    }
+
+    .typed-cursor {
+        font-size: 40px !important;
+    }
+
+    footer .first{
+        font-size: 13px !important;
+    }
+
+    footer p{
+        font-size: 13px !important;
+    }
+}
